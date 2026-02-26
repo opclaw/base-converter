@@ -60,7 +60,7 @@ export default function Home() {
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-violet-500 to-purple-600 flex items-center justify-center text-2xl shadow-lg">🔢</div>
               <div>
-                <h1 className="text-xl font-bold text-slate-900">Base Converter</h1>
+                <span className="text-xl font-bold text-slate-900">Base Converter</span>
                 <p className="text-sm text-slate-500">Binary · Octal · Decimal · Hex</p>
               </div>
             </div>
