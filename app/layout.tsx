@@ -17,6 +17,7 @@ export const metadata: Metadata = {
     siteName: 'Base Converter',
     title: 'Number Base Converter — Binary, Decimal, Hex',
     description: 'Convert numbers between binary, decimal, hexadecimal, and octal.',
+    images: ['/og-image.svg'],
   },
   twitter: {
     card: 'summary_large_image',
