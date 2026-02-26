@@ -3,6 +3,9 @@ import './globals.css'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://base-converter.vercel.app'),
+  alternates: {
+    canonical: 'https://base-converter.vercel.app',
+  },
   title: 'Number Base Converter — Binary, Decimal, Hex | Free Tool',
   description: 'Convert numbers between binary, decimal, hexadecimal, and octal bases. Free online base converter for programmers.',
   keywords: ['base converter', 'binary converter', 'decimal to hex', 'hex to decimal', 'octal converter', 'number base'],
